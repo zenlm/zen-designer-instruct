@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="zen-designer-instruct" width="880"></p>
+
 # Zen Designer Instruct
 
 Vision-language model for design instruction following.
